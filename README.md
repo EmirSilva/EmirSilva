@@ -22,6 +22,7 @@ Soy estudiante de **Ingeniería de Ejecución en Computación e Informática** e
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="sql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/MIPS-000000?style=for-the-badge&logo=cpu&logoColor=white" alt="MIPS" height="40"/>
 </p>
 
 **Frameworks y Librerías**

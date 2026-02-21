@@ -50,6 +50,41 @@ Soy estudiante de **Ingeniería de Ejecución en Computación e Informática** e
 </p>
 ---
 
+### 📂 Proyectos Destacados
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java"/>
+      </div>
+      <h4>🏎️ KartingPep</h4>
+      <p>Sistema de gestión para karting desarrollado como parte del proceso académico. Enfocado en la lógica de negocio, manejo de datos y reglas de competición.</p>
+      <p>
+        <a href="https://github.com/EmirSilva/KartingPep">
+          <img src="https://img.shields.io/badge/Repositorio-Ver_Código-blue?style=flat-square&logo=github" />
+        </a>
+      </p>
+      <sub><b>Stack:</b> Java, PostgreSQL</sub>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" alt="Spring"/>
+      </div>
+      <h4>🌐 KartingMicroserviciosPep</h4>
+      <p>Evolución del sistema hacia una <b>arquitectura de microservicios</b>. Implementación de servicios desacoplados para mejorar la escalabilidad y el mantenimiento.</p>
+      <p>
+        <a href="https://github.com/EmirSilva/KartingMicroserviciosPep">
+          <img src="https://img.shields.io/badge/Repositorio-Ver_Código-blue?style=flat-square&logo=github" />
+        </a>
+      </p>
+      <sub><b>Stack:</b> Spring Boot, Docker, Microservicios</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📫 Contacto
 - **LinkedIn:** https://www.linkedin.com/in/emir-silva-vel%C3%A1squez-760881226/
 - **Correo institucional:** emir.silva@usach.cl
